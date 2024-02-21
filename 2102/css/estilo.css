@@ -1,0 +1,20 @@
+body{
+    background-image: url(../img/Download\ premium\ image\ of\ Olive\ green\ wall\ background\ by\ Busbus\ about\ green\ background\,\ olive\ green\ design\,\ olive\ green\ wall\ background\,\ olive\ green\ background\,\ and\ odilon\ redon\ 842269.jpg);
+    background-size: 100%;
+}
+
+.bg-beige{
+    color: rgb(255, 246, 234);
+    background-color: rgb(186, 133, 236);
+}
+.bg-cabecalho{
+    background-color: rgb(88, 179, 115);
+    
+}
+.titulo{
+    font-size: 60px;
+    color: rgb(255, 236, 211);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    text-align: center;
+}
